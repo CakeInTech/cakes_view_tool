@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CakeViewTool::Renderer.copyright "Mohamed Cake", "All rights reserved"
+```
 
 ## Development
 
