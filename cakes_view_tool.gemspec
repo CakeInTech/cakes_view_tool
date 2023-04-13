@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Mohamed Abdulhakim"]
   spec.email = ["abdulhakimm280@gmail.com"]
 
-  spec.summary = "Streamline your Ruby application's view development with my customizable gem, featuring a Variouse view specific methods for applications I use."
+  spec.summary = "Streamline your Ruby application's view development with my customizable gem, featuring a variouse view specific methods for applications I use."
   spec.description = "Provides generated HTML data for Rails applications."
   spec.homepage = "https://mohamedcake.com"
   spec.license = "MIT"
